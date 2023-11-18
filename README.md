@@ -17,8 +17,7 @@ Link to datasource: https://www.kaggle.com/datasets/nancyalaswad90/breast-cancer
 **Context**
 
 This project utilizes a breast cancer dataset from Kaggle from the University of Wisconsin Clinical Sciences
-Center. The authors who published this data set took the data from the University of California Irvine - Machine Learning
-Repository. (Link to source: https://data.world/health/breast-cancer-wisconsin)
+Center. The authors sourced this dataset from the University of California Irvine's Machine Learning Repository. (Link to source: https://data.world/health/breast-cancer-wisconsin)
 
 The objective of this project is to find correlations between tumors and their size and texture (smoothness) 
  To determine whether or not the tumor is benign (not cancerous) or malignant (cancerous). 
@@ -33,9 +32,9 @@ The objective of this project is to find correlations between tumors and their s
 
 4. ***Texture:*** Standard deviation of gray-scale values
 
-5. ***Perimeter:*** 
+5. ***Perimeter:*** Perimeter of tumor (in millimeters)
 
-6. ***Area:*** 
+6. ***Area:*** Area of tumor (in millimeters^2)
 
 7. ***Smoothness:*** Local variation in radius length
 
@@ -45,6 +44,7 @@ The objective of this project is to find correlations between tumors and their s
 
 10. ***Concave Points:*** Number of concave portions of the contour
 
-11. ***Symmetry:*** 
+11. ***Symmetry:*** Symmetry of the tumor
 
-12. ***Fractal Dimention:*** Coastline approximation
+12. ***Fractal Dimension:*** Coastline approximation
+
