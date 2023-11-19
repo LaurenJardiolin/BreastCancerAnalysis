@@ -34,7 +34,7 @@ The objective of this project is to find correlations between tumors and their s
 
 5. ***Perimeter:*** Perimeter of tumor (in millimeters)
 
-6. ***Area:*** Area of tumor (in millimeters^2)
+6. ***Area:*** Area of tumor (in millimeters squared)
 
 7. ***Smoothness:*** Local variation in radius length
 
